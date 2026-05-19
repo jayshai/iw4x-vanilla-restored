@@ -8,8 +8,8 @@ Restored vanilla user interface for IW4x: Multiplayer. Made a lot of changes to 
 
 # Installation
 1. Download the .iwd from the release page.
-2. Extract to \steamapps\common\Call of Duty Modern Warfare 2\iw4x (or where your game is located).
-3. Play!
+2. Place it in the iw4x folder of your Modern Warfare 2 game folder. (or where your game is located).
+3. Enjoy.
 
 # Legacy Builds
 You can find my legacy build below. Many changes have been made since this build so it is no longer supported.
