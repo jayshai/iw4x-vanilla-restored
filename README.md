@@ -9,8 +9,8 @@ Restored vanilla user interface for IW4x: Multiplayer. Made a lot of changes to 
 - Added dark overlay backgrounds to those that didn't have it.
 - Consistent sizing and positioning of UI elements that are now consistent with Vanilla.
 - Amended Theater and Mod menus to fit client aesthetic.
+- Fixed some bugs in game lobby menus (Spectator button is no longer greyed out, shows Leave Game when not host and End Game when host).
 - Other bugs and fixes that I probably forgot to mention.
-
 ## Screenshots
 <img width="2559" height="1439" alt="Screenshot 2026-05-19 144901" src="https://github.com/user-attachments/assets/2de8a71c-0054-47b9-90d2-85ab0d35cce8" />
 <img width="2559" height="1439" alt="Screenshot 2026-05-19 144855" src="https://github.com/user-attachments/assets/018fed3f-e244-4bac-b80a-f21022780822" />
