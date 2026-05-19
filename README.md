@@ -18,6 +18,7 @@ Restored vanilla user interface for IW4x: Multiplayer. Made a lot of changes to 
 <img width="2559" height="1439" alt="Screenshot 2026-05-19 194919" src="https://github.com/user-attachments/assets/f5e943f0-2a65-4783-87a3-028da6bd2929" />
 <img width="2559" height="1439" alt="Screenshot 2026-05-19 195006" src="https://github.com/user-attachments/assets/f1415d40-e46b-4e4c-af65-0ee32e9955b6" />
 <img width="2559" height="1439" alt="Screenshot 2026-05-19 194848" src="https://github.com/user-attachments/assets/207e4ad6-2005-4486-97ab-f2913e09aaf2" />
+<img width="2559" height="1439" alt="Screenshot 2026-05-19 194858" src="https://github.com/user-attachments/assets/5204f413-f0d4-44c1-9d43-c6bcaddc9709" />
 
 ## Installation
 1. Download the .iwd from the [releases](https://github.com/jayshai/iw4x-vanilla-restored/releases) page.
