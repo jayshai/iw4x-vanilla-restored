@@ -1,5 +1,5 @@
 # IW4x Vanilla UI: Restored
-Restored vanilla user interface for IW4x Multiplayer. Made a lot of changes to recreate the Steam UI, along with many fixes that haven't even been implemented into IW4x's UI itself.
+Restored vanilla user interface for IW4x Multiplayer. Made a lot of changes to recreate the Steam UI, along with many menu fixes that haven't even been implemented into IW4x's UI itself.
 
 # Screenshots
 <img width="2559" height="1439" alt="Screenshot 2026-05-19 144901" src="https://github.com/user-attachments/assets/2de8a71c-0054-47b9-90d2-85ab0d35cce8" />
