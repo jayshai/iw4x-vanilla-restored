@@ -12,6 +12,6 @@ Restored vanilla user interface for IW4x Multiplayer. Made a lot of changes to r
 3. Play!
 
 # Legacy Builds
-You can find my legacy build here. Many changes have been made since this build so it is no longer supported but optional:
+You can find my legacy build below. Many changes have been made since this build so it is no longer supported.
 https://forum.alterware.dev/t/iw4x-mw2-2009-restored-mp-ui-update-1-3-13-05-2026/96
 
